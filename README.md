@@ -17,7 +17,7 @@ For a mac, run the following command in your terminal:_
 
 _$ git clone https://github.com/kassimab1/CodeReviewKassim/blob/master/index.html_
 
-_Review page! Hope you enjoy learning a little about me_
+_Review page! Hope you enjoy learning a little about me._
 
 
 ## Technologies Used
