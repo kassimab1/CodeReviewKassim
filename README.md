@@ -10,7 +10,7 @@
 _This website will help you get a better understanding of who Kassim is, a few things he enjoys and a brief bio._
 ## Setup
 
-_Clone this repository.
+_Clone this repository._
 
 _Open a simple HTTP server in the top level of the cloned directory. 
 For a mac, run the following command in your terminal:_
